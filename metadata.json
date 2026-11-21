@@ -1,0 +1,6 @@
+{
+  "name": "AutoPrint VIN - Inventario Térmico y Carta",
+  "description": "Digitaliza capturas de pantalla, extrae números VIN de vehículos y genera impresiones optimizadas para impresoras térmicas Bluetooth de 58mm y formato carta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
